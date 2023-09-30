@@ -4,7 +4,7 @@ As a software engineer constantly pursuing advancements in my skillset, I initia
 
 The purpose behind developing this app is to explore the intricate details of Flutter and Dart and to provide an efficient and effective learning tool for users who want to memorize information quickly. It's a manifestation of my desire to create applications that are not only functional but also contribute to the learning process.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/2ff1e71f34594d07be365b056d3b7a77?sid=03841b78-bfcd-4200-be58-79627bace203)
 
 # Development Environment
 
