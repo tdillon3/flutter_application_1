@@ -14,7 +14,6 @@ VSCode served as the chosen IDE, facilitating a smooth and efficient development
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Free Code Camp](https://www.freecodecamp.org/)
 * [Flutter](https://flutter.dev/learn)
 * [Andriod Studio Emulator](https://developer.android.com/studio/run/emulator)
